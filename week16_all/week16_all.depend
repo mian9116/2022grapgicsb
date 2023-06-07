@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1514140588 source:c:\users\user\onedrive\орн▒\2022grapgicsb\week16_all\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
